@@ -11,5 +11,4 @@ def find_even_values(src)
 p array_of_arrays[0][0]
 p array_of_arrays[1][1]
 p array_of_arrays[1][3]
-p array_of
 end
